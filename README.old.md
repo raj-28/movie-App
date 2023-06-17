@@ -1,0 +1,3 @@
+# movie-App
+
+Learning JavaScript libraries and frameworks can be overwhelming. There are many libraries to choose from, and no proper step-by-step guides that’ll teach you how to use these libraries to their fullest potential. That’s why, in this video, you’ll learn the most popular JavaScript library, used by hundreds of thousands of developers worldwide - React.js.  If you want to learn everything from the essential JSX syntax all the way to more advanced React topics, like state, hooks, data fetching, and more, you’ve come to the right place. Most importantly, I’ll teach you how to build a React.js application so that you can actively internalize and independently apply everything you’ve learned in this beginner-friendly React Crash Course video. 
